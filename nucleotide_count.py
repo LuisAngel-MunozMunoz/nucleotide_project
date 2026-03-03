@@ -1,5 +1,5 @@
 # Hardcoded sequence
-dna_sequence = " at gc "
+dna_sequence = ""
 
 # Limpieza
 dna_sequence = dna_sequence.strip()

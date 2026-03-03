@@ -22,5 +22,5 @@
   - ¿Coincide? Sí
 
 - Caso 4 (""):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: LOngitud de 0
+  - ¿Coincide? Sí
