@@ -10,8 +10,8 @@
 ### ✅ Resultados (completa al correr el programa)
 
 - Caso 1 ("ATGC"):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: Longitud de 4, conteo de bases correcto
+  - ¿Coincide? Sí
 
 - Caso 2 ("aaaa"):
   - Obtuve: ...
