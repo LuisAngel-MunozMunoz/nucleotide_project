@@ -14,12 +14,12 @@
   - ¿Coincide? Sí
 
 - Caso 2 ("aaaa"):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: Longitud de 4 y conteo de 4 A
+  - ¿Coincide? Sí
 
 - Caso 3 (" at gc "):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: Longuitud de 4 y conteo de 1 por cada base
+  - ¿Coincide? Sí
 
 - Caso 4 (""):
   - Obtuve: ...
