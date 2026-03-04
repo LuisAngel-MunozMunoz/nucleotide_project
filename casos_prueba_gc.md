@@ -18,8 +18,8 @@
   - ¿Coincide? Sí
 
 - Caso 3 ("ATGC"):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: 50.00%
+  - ¿Coincide? Sí
 
 - Caso 4 (""):
   - Obtuve: ...
