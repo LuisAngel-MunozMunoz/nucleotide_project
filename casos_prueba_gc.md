@@ -22,5 +22,5 @@
   - ¿Coincide? Sí
 
 - Caso 4 (""):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: La longitud es 0, dato erroneo en el calculo
+  - ¿Coincide? Sí

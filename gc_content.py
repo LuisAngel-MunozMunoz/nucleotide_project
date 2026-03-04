@@ -1,5 +1,5 @@
 # Hardcoded sequence
-dna_sequence = "ATGC"
+dna_sequence = ""
 
 #Condiciones en caso 0
 if dna_sequence == "":
