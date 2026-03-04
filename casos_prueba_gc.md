@@ -14,8 +14,8 @@
   - ¿Coincide? Sí
 
 - Caso 2 ("ATAT"):
-  - Obtuve: ...
-  - ¿Coincide? Sí / No
+  - Obtuve: 0.00%
+  - ¿Coincide? Sí
 
 - Caso 3 ("ATGC"):
   - Obtuve: ...
